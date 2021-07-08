@@ -3,5 +3,6 @@
 
 cd electron-template
 
+npm init
 
 npm install && npm start
